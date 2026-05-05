@@ -1,0 +1,13 @@
+nba-movement-data/
+season_stats.csv
+*.7z
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+pnr_v2/
+pnr_v3/
+old/
+spacing_model.ipynb
+validation_plots/
+camp-project/
