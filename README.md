@@ -1,1 +1,1 @@
-# NBA Player Sprinting — 2015-16 Season
+![NBA Player Sprinting Leaderboard](preview.png)
